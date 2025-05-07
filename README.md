@@ -32,7 +32,7 @@ int main() {
 ## OUTPUT:
 
 
-![WhatsApp Image 2025-04-29 at 13 27 52_4b2ca83c](https://github.com/user-attachments/assets/a066e2b2-270c-4521-a7a2-fbbc05bb197d)
+![image](https://github.com/user-attachments/assets/6cdd3cee-ab57-4e2b-acb3-72f4209bd02b)
 
 
 
